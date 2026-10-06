@@ -4,7 +4,9 @@
 
 **Скачать:** [sand_sim-1.8.0.zip](download/sand_sim-1.8.0.zip) (кнопка Download raw file). Бесплатно, лицензия GPL-3.0. Телеграм-канал автора: [ArtEmotion3D](https://t.me/ArtEmotion3DGroup), там же можно поддержать проект звёздами Telegram.
 
-<!-- VIDEO -->
+<!-- VIDE
+
+O -->
 
 ## Установка
 
