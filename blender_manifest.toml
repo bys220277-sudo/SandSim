@@ -1,0 +1,20 @@
+schema_version = "1.0.0"
+
+id = "sand_sim"
+version = "1.8.0"
+name = "Sand Simulation"
+tagline = "Granular sand of cube grains simulated from a set of points"
+maintainer = "Sand Simulation add-on"
+type = "add-on"
+
+tags = ["Physics", "Animation", "Geometry Nodes"]
+
+blender_version_min = "5.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+[permissions]
+files = "Simulation cache and compiled GPU kernels on disk"
+network = "Optional download of NVIDIA Warp for GPU computation"
